@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_cheeseburger.mk
+    $(LOCAL_DIR)/revengeos_cheeseburger.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_cheeseburger-user \
-    dot_cheeseburger-userdebug \
-    dot_cheeseburger-eng
+    revengeos_cheeseburger-user \
+    revengeos_cheeseburger-userdebug \
+    revengeos_cheeseburger-eng
